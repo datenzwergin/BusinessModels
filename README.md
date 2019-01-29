@@ -34,8 +34,8 @@ covered in this part of the syllabus.
 
 Three modules are covered in part two; 
 (i) Module 3: Communicating FOSS, 
-(ii) Module 4: Introduction to General Business Skills, and (iii) Module 5: FOSS Specific Business Knowledge
-and Skills.
+(ii) Module 4: Introduction to General Business Skills, and 
+(iii) Module 5: FOSS Specific Business Knowledge and Skills.
 
 Part three of the training material - FOSS Training as a Business – consists of one module which
 aims to foster understanding of some of the requirements for becoming an FOSS trainer, and
